@@ -148,7 +148,7 @@
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#cc7832"
 			}
 		},
 		{
@@ -161,60 +161,44 @@
 		},
 		{
 			"name": "Storage type",
-			"scope": "storage.type",
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#66D9EF"
-			}
-		},
-		{
-			"name": "Class name",
-			"scope": "entity.name.type, entity.name.class",
-			"settings": {
-				"fontStyle": "underline",
-				"foreground": "#A6E22E"
-			}
-		},
-		{
-			"name": "Inherited class",
-			"scope": "entity.other.inherited-class",
-			"settings": {
-				"fontStyle": "italic underline",
-				"foreground": "#A6E22E"
-			}
-		},
-		{
-			"name": "Function name",
-			"scope": "entity.name.function",
+			"scope": "storage, storage.type",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"foreground": "#cc7832"
 			}
 		},
 		{
-			"name": "Function argument",
-			"scope": "variable.parameter",
+			"name": "Function",
+			"scope": "support.function, entity.name.function",
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#FD971F"
+				"fontStyle": "",
+				"foreground": "#ffc66d"
 			}
 		},
+		// {
+		// 	"name": "Function argument",
+		// 	"scope": "variable.parameter",
+		// 	"settings": {
+		// 		"fontStyle": "italic",
+		// 		"foreground": "#FD971F"
+		// 	}
+		// },
 		{
 			"name": "Tag name",
-			"scope": "entity.name.tag",
+			"scope": "punctuation.definition.tag.html, punctuation.definition.tag.begin, punctuation.definition.tag.end, entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#e8bf6a"
 			}
 		},
-		{
-			"name": "Tag attribute",
-			"scope": "entity.other.attribute-name",
-			"settings": {
-				"fontStyle": "",
-				"foreground": "#A6E22E"
-			}
-		},
+		// {
+		// 	"name": "Tag attribute",
+		// 	"scope": "entity.other.attribute-name",
+		// 	"settings": {
+		// 		"fontStyle": "",
+		// 		"foreground": "#A6E22E"
+		// 	}
+		// },
 		{
 			"name": "Library function",
 			"scope": "support.function",
@@ -231,12 +215,21 @@
 				"foreground": "#66D9EF"
 			}
 		},
+		// {
+		// 	"name": "Inherited class",
+		// 	"scope": "entity.other.inherited-class",
+		// 	"settings": {
+		// 		"fontStyle": "italic underline",
+		// 		"foreground": "#A6E22E"
+		// 	}
+		// },
 		{
+			// E.g. null in ReactComponent<{}, null>
 			"name": "Library class/type",
 			"scope": "support.type, support.class",
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"fontStyle": "",
+				"foreground": "#cc7832"
 			}
 		},
 		{
