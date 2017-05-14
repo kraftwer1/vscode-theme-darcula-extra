@@ -5,6 +5,7 @@
 // green: #638954
 // white: #a9b7c6
 // blue: #5d98bf
+// neon: #a5c261
 
 {
 	"type": "dark",
@@ -105,10 +106,24 @@
 			}
 		},
 		{
-			"name": "Operator Keywords",
-			"scope": "keyword.operator, keyword.operator.logical, keyword.operator.relational, keyword.operator.assignment, keyword.operator.comparison, keyword.operator.ternary, keyword.operator.arithmetic, keyword.operator.spread",
+			"name": "Operator Keywords 1",
+			"scope": "keyword.operator, keyword.operator.logical, keyword.operator.relational, keyword.operator.comparison, keyword.operator.ternary, keyword.operator.arithmetic, keyword.operator.spread",
 			"settings": {
 				"foreground": "#a9b7c6"
+			}
+		},
+		{
+			"name": "Operator Keywords 2",
+			"scope": "meta.tag.tsx keyword.operator.assignment",
+			"settings": {
+				"foreground": "#638954"
+			}
+		},
+		{
+			"name": "Punctuation",
+			"scope": "punctuation.separator.comma, punctuation.terminator.statement, punctuation.terminator.rule.css",
+			"settings": {
+				"foreground": "#cc7832"
 			}
 		},
 		{
@@ -139,14 +154,14 @@
 				"foreground": "#5c97be"
 			}
 		},
-		// {
-		// 	// E.g. this
-		// 	"name": "Built-in constant",
-		// 	"scope": "constant.language, variable.language",
-		// 	"settings": {
-		// 		"foreground": "#cc7832"
-		// 	}
-		// },
+		{
+			// E.g. this
+			"name": "Built-in constant",
+			"scope": "constant.language, variable.language",
+			"settings": {
+				"foreground": "#cc7832"
+			}
+		},
 		{
 			"name": "User-defined constant",
 			"scope": "constant.character, constant.other",
@@ -451,6 +466,14 @@
 			}
 		},
 		{
+			"name": "CSS Property",
+			"scope": "entity.name.tag.css",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#cc7832"
+			}
+		},
+		{
 			"name": "CSS Property-value",
 			"scope": "property-list.property-value, property-list.constant",
 			"settings": {
@@ -476,7 +499,7 @@
 		},
 		{
 			"name": "CSS Property-value",
-			"scope": "property-list.property-value.rgb-value, keyword.other.unit.css, keyword.other.unit.scss",
+			"scope": "property-list.property-value.rgb-value, keyword.other.unit.css, keyword.other.unit.scss, punctuation.definition.constant.css, constant.other.color.rgb-value.hex.css",
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#5d97be"
@@ -495,7 +518,7 @@
 			"scope": "support.constant.property-value.css, support.constant.property-value.scss",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#638954"
+				"foreground": "#a5c261"
 			}
 		},
 		{
