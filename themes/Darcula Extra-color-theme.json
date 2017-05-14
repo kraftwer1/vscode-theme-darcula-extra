@@ -121,7 +121,7 @@
 		},
 		{
 			"name": "Punctuation",
-			"scope": "punctuation.separator.comma, punctuation.terminator.statement, punctuation.terminator.rule.css",
+			"scope": "punctuation.separator.comma, punctuation.separator.parameter, punctuation.terminator.statement, punctuation.terminator.rule.css",
 			"settings": {
 				"foreground": "#cc7832"
 			}
