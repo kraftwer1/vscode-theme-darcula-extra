@@ -3,5 +3,5 @@ All notable changes to the "darcula-extra" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [v0.0.6]
 - Initial release
