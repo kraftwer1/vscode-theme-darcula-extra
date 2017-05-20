@@ -1,3 +1,6 @@
+## v0.1.1
+- macOS inactive title bar styling
+
 ## v0.1.0
 - Improved contrast to improve selection visibility
 - Fixed drop color color

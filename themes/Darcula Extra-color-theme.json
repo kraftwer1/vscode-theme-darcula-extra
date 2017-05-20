@@ -47,6 +47,7 @@
 		// "activityBar.dropBackground": "#414339",
 		"titleBar.activeBackground": "#474B4D",
 		"titleBar.activeForeground": "#a9b7c6",
+		"titleBar.inactiveBackground": "#313335",
 		"sideBar.background": "#313335",
 		"sideBarSectionHeader.background": "#313335",
 		// "pickerGroup.foreground": "#75715E",
