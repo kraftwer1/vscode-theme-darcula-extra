@@ -1,3 +1,6 @@
+## v0.1.2
+- Type definition punctuation color
+
 ## v0.1.1
 - macOS inactive title bar styling
 
