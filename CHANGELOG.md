@@ -1,3 +1,6 @@
+## v0.1.3
+- Updated screenshot
+
 ## v0.1.2
 - Type definition punctuation color
 
