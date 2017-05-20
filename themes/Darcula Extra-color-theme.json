@@ -153,7 +153,7 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#5c97be"
+				"foreground": "#5d98bf"
 			}
 		},
 		{
@@ -183,7 +183,14 @@
 			"name": "Types, Class Types",
 			"scope": "meta.return.type, meta.type.annotation, meta.type.parameters, support.type.primitive",
 			"settings": {
-				"foreground": "#5c97be"
+				"foreground": "#5d98bf"
+			}
+		},
+		{
+			"name": "Types, Class Types Character",
+			"scope": "meta.type.annotation punctuation.definition.block",
+			"settings": {
+				"foreground": "#a9b7c6"
 			}
 		},
 		{
@@ -488,7 +495,7 @@
 			"scope": "support.type.property-name.variable.css, support.type.property-name.variable.scss, variable.scss",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#5c97be"
+				"foreground": "#5d98bf"
 			}
 		},
 		{
@@ -504,7 +511,7 @@
 			"scope": "property-list.property-value.rgb-value, keyword.other.unit.css, keyword.other.unit.scss, punctuation.definition.constant.css, constant.other.color.rgb-value.hex.css",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#5d97be"
+				"foreground": "#5d98bf"
 			}
 		},
 		{
