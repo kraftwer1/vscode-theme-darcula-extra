@@ -1,3 +1,7 @@
+## v0.2.0
+- Use new May 2017 release styling features
+- Styled headers
+
 ## v0.1.3
 - Updated screenshot
 
