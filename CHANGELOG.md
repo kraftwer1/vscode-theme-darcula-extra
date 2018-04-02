@@ -1,3 +1,6 @@
+## v0.3.0
+- Use new `editorActiveLineNumber.foreground`
+
 ## v0.2.0
 - Use new May 2017 release styling features
 - Styled headers
