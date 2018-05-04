@@ -1,3 +1,8 @@
+## v0.4.0
+- Highlight active indent guide
+- Optimized debug toolbar background
+- Fixed TypeScript class properties of type "function" color
+
 ## v0.3.0
 - Use new `editorActiveLineNumber.foreground`
 
