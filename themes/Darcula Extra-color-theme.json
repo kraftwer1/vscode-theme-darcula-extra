@@ -60,7 +60,7 @@
 		// "inputOption.activeBorder": "#75715E",
 		"focusBorder": "#555",
 		"editorWidget.background": "#313335",
-		// "debugToolBar.background": "#1e1f1c",
+		"debugToolBar.background": "#474B4D",
 		// "diffEditor.insertedTextBackground": "#66852880", // middle of #272822 and #a6e22e
 		// "diffEditor.removedTextBackground": "#90274A80", // middle of #272822 and #f92672
 		// "inputValidation.errorBackground": "#90274A", // middle of #272822 and #f92672
