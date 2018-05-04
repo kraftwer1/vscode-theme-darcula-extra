@@ -241,7 +241,7 @@
 		},
 		{
 			"name": "Variable, Property",
-			"scope": "variable.property, variable.constant, variable.other.property, variable.other.constant, variable.other.object.property, variable.object.property, support.variable.property",
+			"scope": "variable.property, variable.constant, variable.other.property, variable.other.constant, variable.other.object.property, variable.object.property, support.variable.property, source.tsx meta.definition.property.tsx entity.name.function.tsx",
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#9e73ad"
