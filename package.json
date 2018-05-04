@@ -2,7 +2,7 @@
     "name": "darcula-extra",
     "displayName": "Darcula Extra",
     "description": "A theme extension for VS Code based on rokorokus wonderful port of Darcula theme from Jetbrains IDEs",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "publisher": "kraftwer1",
     "repository": {
         "type": "git",
