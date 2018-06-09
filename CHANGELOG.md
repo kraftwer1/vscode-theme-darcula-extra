@@ -1,3 +1,7 @@
+## v0.5.0
+
+- Styled unused variables
+
 ## v0.4.0
 - Highlight active indent guide
 - Optimized debug toolbar background

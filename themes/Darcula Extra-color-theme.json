@@ -6,6 +6,7 @@
 // white: #a9b7c6
 // blue: #5d98bf
 // neon: #a5c261
+// grey: #808080
 
 {
 	"type": "dark",
@@ -20,6 +21,7 @@
 		// "button.background": "#75715E",
 		"editor.background": "#282828",
 		"editor.foreground": "#a9b7c6",
+		"editorUnnecessary.foreground": "#808080",
 		// "editor.selectionBackground": "#49483e",
 		"editor.lineHighlightBackground": "#323232",
 		// "editorCursor.foreground": "#f8f8f0",
@@ -40,7 +42,7 @@
 		// "panelTitle.activeBorder": "#75715E",
 		// "panelTitle.inactiveForeground": "#75715E",
 		"panel.border": "#3c3f41",
-		"editorActiveLineNumber.foreground": "#a9b7c6",
+		"editorLineNumber.activeForeground": "#a9b7c6",
 		// "statusBar.background": "#515658",
 		// "statusBar.noFolderBackground": "#414339",
 		// "statusBar.debuggingBackground": "#75715E",
