@@ -22,7 +22,7 @@
     "editor.background": "#282828",
     "editor.foreground": "#a9b7c6",
     "editorUnnecessary.foreground": "#808080",
-    // "editor.selectionBackground": "#49483e",
+    "editor.selectionBackground": "#37393B",
     "editor.lineHighlightBackground": "#323232",
     // "editorCursor.foreground": "#f8f8f0",
     "editorWhitespace.foreground": "#373737",
